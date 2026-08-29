@@ -1,0 +1,11 @@
+# 多账号复盘与 Leader 指导 Agent - 依赖
+
+# 核心依赖（Demo 运行必需，标准库即可）
+# 无额外强制依赖
+
+# 可选：使用真实 OpenAI API 时需要
+openai>=1.0.0
+
+# 可选：Web 界面
+# streamlit>=1.28.0
+# fastapi>=0.104.0
